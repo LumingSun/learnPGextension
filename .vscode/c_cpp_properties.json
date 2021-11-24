@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/slm/"
+                "/home/slm/",
+                "/home/slm/postgres/include/server"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
